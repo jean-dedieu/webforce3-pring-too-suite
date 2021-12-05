@@ -49,14 +49,17 @@ Categories=Development;IDE;Java;
 
 
 
-Windows
+
+
+
+#### Pour Windows
 
 Suivre ce tutoriel:
 
 https://www.youtube.com/watch?v=5_mar7HGxeQ
 
 
-Mac:
+#### Pour Mac:
 
 https://www.youtube.com/watch?v=yrneL75J3yw
 
