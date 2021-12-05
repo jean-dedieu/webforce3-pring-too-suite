@@ -74,7 +74,7 @@ Faire:
 
          Déplier Developper Tools -> Choisir Spring Boot Dev Tool 
 
-        Déplier Template engines -> Choisir Thymeleaf
+         Déplier Template engines -> Choisir Thymeleaf
 
 
 
