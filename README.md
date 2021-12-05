@@ -77,5 +77,15 @@ Faire:
          Déplier Template engines -> Choisir Thymeleaf (Pour les vues)
 
 
+# Configurer les ports alétoirement:
 
+Aller dans src/main/ressources
+
+
+        Puis dans applications.properties
+   
+        En suite faire:
+   
+        server.port=0
+   
 
