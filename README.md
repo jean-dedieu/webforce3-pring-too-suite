@@ -64,6 +64,17 @@ https://www.youtube.com/watch?v=5_mar7HGxeQ
 https://www.youtube.com/watch?v=yrneL75J3yw
 
 
+# Créer projet avec Spring Tool suite
+
+Faire:
+
+         File-> New -> Spring Starter Project 
+
+         Déplier Web -> Choisier Spring Web 
+
+         Déplier Developper Tools -> Choisir Spring Boot Dev Tool 
+
+        Déplier Template engines -> Choisir Thymeleaf
 
 
 
