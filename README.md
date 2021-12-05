@@ -70,11 +70,11 @@ Faire:
 
          File-> New -> Spring Starter Project 
 
-         Déplier Web -> Choisier Spring Web 
+         Déplier Web -> Choisir Spring Web (par ce qu'on veut faire du web)
 
-         Déplier Developper Tools -> Choisir Spring Boot Dev Tool 
+         Déplier Developper Tools -> Choisir Spring Boot Dev Tool (Pour éviter de rédemarrer le serveur à chaque fois)
 
-         Déplier Template engines -> Choisir Thymeleaf
+         Déplier Template engines -> Choisir Thymeleaf (Pour les vues)
 
 
 
